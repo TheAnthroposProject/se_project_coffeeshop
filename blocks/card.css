@@ -1,0 +1,30 @@
+.card {
+  width: 540px;
+}
+
+.card__list {
+  padding: 0;
+  margin: 0;
+  font: normal normal 16px "Noto Serif";
+  line-height: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.card__title {
+  margin: 0 0 32px;
+  font: normal bold 20px "Inter";
+  line-height: 30px;
+}
+
+.card__list-item {
+  gap: 10px;
+  display: flex;
+  list-style-type: none;
+}
+
+.card__list-divider {
+  flex-grow: 1;
+  border-bottom: 1px solid #000;
+}
