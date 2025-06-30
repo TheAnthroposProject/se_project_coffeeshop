@@ -1,5 +1,6 @@
 .form {
   max-width: 385px;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .form__fieldset {
@@ -38,13 +39,17 @@ input::-webkit-input-placeholder {
   margin: 0 0 32px;
   padding: 20px 0;
   width: 100%;
-  font: Inter normal 16px 500;
+  font-weight: 500;
+  font-family: "Inter", Arial, sans-serif;
   line-height: 20px;
   color: #fff;
+  opacity: 100%;
+  transition: background-color 1s ease-in-out 0.1s;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
+  opacity: 70%;
 }
 
 .form__checkbox {

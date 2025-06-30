@@ -5,13 +5,14 @@
   background-position: center;
   background-size: cover;
   padding: 100px 0 120px;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .reservation__title {
   margin: 0 0 80px;
   text-align: center;
-  font-size: 44px;
   font-weight: 500;
+  font-size: 44px;
   line-height: 52px;
   color: #000;
 }
