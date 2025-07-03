@@ -27,13 +27,14 @@
 
 .recipes__videos {
   margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: row;
   justify-content: center;
   gap: 40px;
   list-style-type: none;
-  width: -480px;
-  height: -273px;
+  width: 480px;
+  height: 273px;
 }
 
 .recipes__video-caption {
