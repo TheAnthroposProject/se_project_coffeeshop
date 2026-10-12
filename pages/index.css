@@ -170,7 +170,7 @@
   max-width: 385px;
 }
 
-.reseveration__form {
+.reservation__form {
   margin: 0 auto;
 }
 
@@ -211,13 +211,6 @@
 .form__button:hover {
   background-color: #3f96f3;
 }
-
-.form__checkbox {
-  border-radius: 2px;
-  width: 20px;
-  height: 20px;
-}
-
 .form__label {
   font-style: normal;
   font-weight: 500;
@@ -225,8 +218,13 @@
   line-height: 20px;
 }
 
+.form__checkbox {
+  border-radius: 2px;
+  width: 20px;
+  height: 20px;
+}
 .form__label_type_checkbox {
-  display: flex;
   gap: 12px;
+  display: flex;
   justify-content: center;
 }
