@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 100px 0;
-  background: center/cover no-repeat url(../images/background_menu.svg);
+  background: center/cover no-repeat url(../images/background_menu.svg) #fff;
 }
 
 .menu__title {

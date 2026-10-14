@@ -37,9 +37,6 @@
   gap: 16px;
 }
 
-.footer__list-item {
-}
-
 .footer__soical-link {
   font-style: normal;
   font-weight: normal;
@@ -54,7 +51,7 @@
 }
 
 .footer__soical-link:hover {
-  opacity: 70%;
+  opacity: 0.7;
 }
 
 .footer__social-icon {
