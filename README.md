@@ -13,4 +13,10 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+This will be an ongoing play project me. (practice)
+
+Making it a responsive desgin, will be be my next immprovement
+
+## Website Link
+
+https://theanthroposproject.github.io/se_project_coffeeshop/
